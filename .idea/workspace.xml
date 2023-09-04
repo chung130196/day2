@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e979cc87-dfb2-4a4d-b259-c2e97e26e0d9" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/annotationbasedconfiguration/AccountRepository2Impl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/annotationbasedconfiguration/AccountService2Impl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/javabasedconfiguration/BeanConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/annotationbasedconfiguration/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/xmlconfiguration/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xmlconfiguration/beans.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e979cc87-dfb2-4a4d-b259-c2e97e26e0d9" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +44,9 @@
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/ADMIN/IdeaProjects/day2/src/main/resources/annotationbasedconfiguration",
     "onboarding.tips.debug.path": "C:/Users/ADMIN/IdeaProjects/day2/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
@@ -146,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693231535921</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <option name="closed" value="true" />
+      <created>1693817334971</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693817334971</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
